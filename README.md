@@ -1,6 +1,6 @@
 # <div align="center"> Trilha Santander 2024 - Criando Jogos com Godot </div>
 
-Desafios de código propostos na plataforma desenvolvidos como parte de um projeto educacional da [DIO](https://www.dio.me/sign-up?ref=13JYL0Y2AV) (Digital Innovation One) no bootcamp: **_Python AI Backend Developer_**. Seguindo as orientações e passo a passo dos conceitos com o professor Guilherme Carvalho.
+Desafios de código propostos na plataforma desenvolvidos como parte de um projeto educacional da [DIO](https://www.dio.me/sign-up?ref=13JYL0Y2AV) (Digital Innovation One) no bootcamp: **_Santander 2024 - Criando Jogos com Godot_**. Seguindo as orientações e passo a passo dos conceitos com o professor Felipe.
 <br>
 - [Desafio 1 - README](https://github.com/skyzinha-chan/Colocando-sua-Logica-para-Jogo-com-JavaScript/blob/main/Verificando%20Disponibilidade%20de%20Item%20no%20Inventario/README.md)
 - [Desafio 2 - README](https://github.com/skyzinha-chan/Colocando-sua-Logica-para-Jogo-com-JavaScript/blob/main/A%20Escolha%20da%20Classe%20%C3%89pica/README.md)
